@@ -30,9 +30,9 @@
     "peripheral": {
       "max_interval": 20,
       "min_interval": 10,
-      "slave_latency": 7
+      "slave_latency": 10
     },
-    "central": { "max_interval": 20, "min_interval": 10, "slave_latency": 0 },
+    "central": { "max_interval": 20, "min_interval": 10, "slave_latency": 10 },
     "led": { "pin": 1, "num": 12 },
     "keymap": { "locale": "US", "use_ascii": 0 }
   }
